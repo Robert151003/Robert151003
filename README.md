@@ -1,5 +1,6 @@
 ### Hey there! 👋
 I'm Robert Forsythe.
+
 I was a self-taught developer beginning in 2018 (Until I went to uni) and began my journey with simple Python projects and game development using Unity.
 
 🔭 I’m currently working on
