@@ -13,7 +13,7 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 - Artificial Intelligence
   
 💬 Ask me about
-- Anything about any of my previous projects
+- Anything
 
 📫 How to reach me
 - linkedin.com/in/robert-forsythe-b6 0539196/
