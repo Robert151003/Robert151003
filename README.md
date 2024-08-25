@@ -10,7 +10,7 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 - React, Node.js
 
 🤔 I’m looking for help with
-- Learning about Artificial Intelligence
+- Artificial Intelligence
   
 💬 Ask me about
 - Anything about any of my previous projects
