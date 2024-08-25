@@ -18,4 +18,6 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 📫 How to reach me
 - linkedin.com/in/robert-forsythe-b6 0539196/
 
+- ![Python](https://img.shields.io/badge/Python-yellow)
+
 
