@@ -19,9 +19,9 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 - linkedin.com/in/robert-forsythe-b6 0539196/
 
 ## Skills
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
