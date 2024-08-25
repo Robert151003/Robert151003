@@ -32,7 +32,7 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin)
 
 
