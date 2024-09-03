@@ -26,13 +26,13 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 
