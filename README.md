@@ -38,8 +38,8 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
