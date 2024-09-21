@@ -33,7 +33,7 @@ I was a self-taught developer beginning in 2018 (Until I went to uni) and starte
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk)
 ![C#](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-white?style=flat-square&logo=kotlin&logoColour=blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin&logoColour=blue)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 
 
